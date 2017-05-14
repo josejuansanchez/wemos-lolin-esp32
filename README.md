@@ -15,11 +15,12 @@ I2C: Pin 5 is SDA, Pin 4 is SCL
 * [ESP-WROOM-32 Datasheet.][1]
 * https://www.esp32.com
 * [The Internet of Things with ESP32][2]
+* [Adafruit's page about ESP-WROOM-32.][3]
 
-## Resources
+## Code Resources
 
 * https://github.com/espressif/arduino-esp32
-* [Adafruit's page about ESP-WROOM-32.][3]
+* https://github.com/squix78/esp8266-oled-ssd1306
 
 ## Notes
 
